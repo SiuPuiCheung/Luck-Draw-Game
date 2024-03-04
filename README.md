@@ -30,7 +30,3 @@ To run the project, compile and execute the `SimpleCompetitions.java` as the mai
 
 ## Contribution
 Contributions are welcome. Please fork the repository and submit a pull request for any enhancements, bug fixes, or improvements.
-
-## License
-This project is open source and available under the [MIT License](LICENSE).
-
