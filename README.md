@@ -1,7 +1,5 @@
 # Luck-Draw-Game
 
-# Lucky Draw Game Project
-
 ## Overview
 This project implements a lucky draw game system in Java, designed to simulate various types of competitions such as number entry games, lucky number draws, and random pick competitions. The system manages members, entries, and competitions, providing a robust platform for conducting and tracking different competition types.
 
